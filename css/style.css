@@ -1,11 +1,18 @@
+body{
+    margin: 0;
+}
 header{
     background-image: url(../img/pattern.png);
     background-color: aqua;
     height: 125px;
     padding-top: 50px;
-
 }
 .logo-text{
     height: 3.5rem;
     padding-top: 50px;
+}
+
+.tim-text{
+    font-size: 10px;
+    display: block;
 }
