@@ -1,0 +1,10 @@
+header{
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+    height: auto;
+    padding-top: 0;
+}
+.logo-text{
+    width: auto;
+    font-size: 10px;
+}
