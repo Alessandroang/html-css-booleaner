@@ -28,7 +28,7 @@ header{
     position: relative;
     border-collapse: collapse;
     text-align: left;
-  }
+}
   
 th{
     background-color: lightskyblue;
@@ -76,10 +76,3 @@ h2{
     padding-top: 20px;
     position: relative;
 }
-
-  
-  
- 
-
-
-
